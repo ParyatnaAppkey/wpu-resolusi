@@ -2,3 +2,5 @@ WPU Resolusi
 -Konsisten membuat konten setiap hari
 -belajar git
 -membuat git
+-menambah text
+-menambahkan sesuatu
