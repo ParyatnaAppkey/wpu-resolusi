@@ -6,3 +6,6 @@ Rencana Konten
 * Effect
 -Keren
 -Ide
+* React
+
+
