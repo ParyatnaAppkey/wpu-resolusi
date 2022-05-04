@@ -3,5 +3,9 @@ Rencana Konten
 -Editing video
 * Bagus
 * Thumbnail
+* Effect
+-Keren
+-Ide
 * React
+
 
